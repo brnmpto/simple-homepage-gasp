@@ -3,7 +3,7 @@ Responsive HomePage with GSAP Animation
 </h1>
 
 <p align="center">Responsive Homepage made for study purposes.</p>
-<p align="center">Deployed <a href="https://rocketseat-twitter-clone.netlify.app/">here</a>.</p>
+<p align="center">Deployed <a href="https://simple-homepage-gasp.vercel.app//">here</a>.</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
